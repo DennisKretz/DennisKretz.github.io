@@ -76,6 +76,7 @@ const CONFIG = {
     'PHP',
     'Lua',
     'Roblox',
+    'C#',
     'JavaScript',
     'React.js',
     'Node.js',

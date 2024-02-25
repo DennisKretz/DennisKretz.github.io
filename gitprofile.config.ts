@@ -29,25 +29,17 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
+      header: 'Projects i developed in',
       // To hide the `External Projects` section, keep it empty.
       projects: [
-        /*{
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
         {
-          title: 'Project Name',
+          title: 'C.A.R.C.A.S VITA Carnis',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'I was responsible for assisting the animators & programmers in software efficiency, developing frameworks and systems for game features, aswell as designing game features and concepts. One of my main Taks was designing and implementing game features',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },*/
+            'https://tr.rbxcdn.com/bb628bc42891808661304eafff91df57/150/150/Image/Png',
+          link: 'https://www.roblox.com/groups/32374558/C-A-R-C-A-S#!/about',
+        },
       ],
     },
   },
@@ -59,7 +51,7 @@ const CONFIG = {
   social: {
     linkedin: 'denis-kretz-487205217',
     //twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    //mastodon: 'arifszn@mastodon.social',
     //facebook: '',
     //instagram: '',
     //youtube: '', // example: 'pewdiepie'
@@ -76,13 +68,14 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
     'Game Development',
     'PHP',
     'Lua',
+    'Roblox',
     'JavaScript',
     'React.js',
     'Node.js',
@@ -90,8 +83,6 @@ const CONFIG = {
     'PostgreSQL',
     'Git',
     'Docker',
-    'CSS',
-    'Tailwind',
   ],
   experiences: [
     {

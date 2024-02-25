@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'C.A.R.C.A.S VITA Carnis',
           description:
-            'I was responsible for assisting the animators & programmers in software efficiency, developing frameworks and systems for game features, aswell as designing game features and concepts. One of my main Taks was designing and implementing game features',
+            'I was responsible for assisting the animators & programmers in software efficiency, developing frameworks and systems for game features, aswell as designing game features and concepts.',
           imageUrl:
             'https://tr.rbxcdn.com/bb628bc42891808661304eafff91df57/150/150/Image/Png',
           link: 'https://www.roblox.com/groups/32374558/C-A-R-C-A-S#!/about',

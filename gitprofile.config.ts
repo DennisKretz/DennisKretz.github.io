@@ -91,7 +91,7 @@ const CONFIG = {
       position: 'Game Developer - Jr Gameplay Engineer & Scripter',
       from: 'February 2024',
       to: 'Present',
-      companyLink: '#',
+      companyLink: 'https://www.roblox.com/groups/32374558/C-A-R-C-A-S#!/about',
     },
     {
       company: 'Passengers friend',

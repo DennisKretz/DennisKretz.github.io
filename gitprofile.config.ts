@@ -95,6 +95,13 @@ const CONFIG = {
       companyLink: 'https://www.roblox.com/groups/32374558/C-A-R-C-A-S#!/about',
     },
     {
+      company: 'Esportal',
+      position: 'Moderation Management & User-Support',
+      from: 'February 2023',
+      to: 'Present',
+      companyLink: 'https://esportal.com/en/profile/dr0elf',
+    },
+    {
       company: 'Passengers friend',
       position: 'Software Developer',
       from: 'November 2021',

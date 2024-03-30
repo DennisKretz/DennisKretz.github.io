@@ -91,7 +91,7 @@ const CONFIG = {
       company: 'C.A.R.C.A.S VITA Carnis',
       position: 'Game Developer - Jr Gameplay Engineer & Scripter',
       from: 'February 2024',
-      to: 'Present',
+      to: 'March 2024',
       companyLink: 'https://www.roblox.com/groups/32374558/C-A-R-C-A-S#!/about',
     },
     {
